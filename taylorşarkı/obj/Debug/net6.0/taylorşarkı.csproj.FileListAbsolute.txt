@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\bin\Debug\net6.0\taylorşarkı.exe
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\bin\Debug\net6.0\taylorşarkı.deps.json
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\bin\Debug\net6.0\taylorşarkı.runtimeconfig.json
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\bin\Debug\net6.0\taylorşarkı.dll
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\bin\Debug\net6.0\taylorşarkı.pdb
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\taylorşarkı.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\taylorşarkı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\taylorşarkı.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\taylorşarkı.AssemblyInfo.cs
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\taylorşarkı.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\taylorşarkı.dll
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\refint\taylorşarkı.dll
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\taylorşarkı.pdb
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\taylorşarkı.genruntimeconfig.cache
+C:\Users\musta\source\repos\taylorşarkı\taylorşarkı\obj\Debug\net6.0\ref\taylorşarkı.dll
